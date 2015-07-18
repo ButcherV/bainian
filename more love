@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>柏念 | 您身边的韩妆专家</title>
+	<link rel="shortcut icon" href="images/bai-32.ico">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<script type="text/javascript" src="js/myfocus-2.0.1.min.js"></script>
+	<script type="text/javascript" src="js/mf-pattern/mF_YSlider.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/mf-pattern/mF_YSlider.css" />
+	<script type="text/javascript">myFocus.set({id:'boxID'});</script>
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	<div class="top">
+		<div class="top-content">
+			<ul>
+				<li><a href="#">&nbsp;&nbsp;FOLLOW US&nbsp;&nbsp;<img src="images/arrow.png" height="10" width="5"></a>
+					<ul>
+						<li><a href="#">&nbsp;&nbsp;<img src="images/weibo-48.png" height="17" width="17" />&nbsp;&nbsp;Follow On SinaWeibo</a></li>
+						<li><a href="#">&nbsp;&nbsp;<img src="images/wechat-48.png" height="16" width="16" />&nbsp;&nbsp;Follow On WeChat</a></li>
+						<li><a href="#">&nbsp;&nbsp;<img src="images/taobao-48.png" height="16" width="16" />&nbsp;&nbsp;Follow On TaoBao</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!-- top-content结束 -->
+	</div><!-- top结束 -->
+	<div class="main">
+		<div class="bai" id="baiID">
+			<img src="images/bai-1000.png" height="300" width="300">
+			<p id="ciID">"&nbsp;你好哇，我是柏念&nbsp;"</p>
+		</div>
+		<div daojishi-baowei>
+			<div class="daojishi" id="daojishiID">
+				<p>柏念距离百年老店还有……</p>
+				<img src="images/daojishi/9.png" height="80" width="50">
+				<img src="images/daojishi/9.png" height="80" width="50">
+				<span id="yueritian"> 
+					<span>年&nbsp;&nbsp;</span>
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<span>月&nbsp;&nbsp;</span>
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<span>天&nbsp;&nbsp;</span>
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<span>时&nbsp;&nbsp;</span>
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<span>分&nbsp;&nbsp;</span>
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<img src="images/daojishi/0.png" height="80" width="50">
+					<span>秒</span>
+				</span> 
+				
+			</div>
+		</div>
+		<div class="zhuye">
+			<div class="zhuye-top">
+				<div class="zhuye-top-toutu">
+					<img src="images/baiyingwen2-1000.png" height="40" width="100">
+				</div>
+				<div class="zhuye-title">
+					<ul>
+						<li><a href="#">CONTACT</a></li>
+						<li><a href="#">SHOP</a></li>
+						<li><a href="#">BLOGS</a></li>
+						<li><a href="#">WHO I AM</a></li>
+						<li><a href="#">HOME</a></li>
+					</ul>
+				</div><!-- zhuye-title结束 -->
+			</div><!-- zhuye-top结束 -->
+			<div class="ad" id="boxID"><!--焦点图盒子-->
+	  		<div class="loading"><img src="images/loading.gif" height="95" width="156" alt="请稍候..." /></div><!--载入画面(可删除)-->
+	 		<div class="pic"><!--内容列表(li数目可随意增减)-->
+	  			<ul>
+	        			<li><a href="#"><img src="images/ad2.jpg" height="310" width="1000" thumb="" alt="标题1" text="详细描述1" /></a></li>
+	        			<li><a href="#"><img src="images/ad3.jpg" height="314" width="1000" thumb="" alt="标题2" text="详细描述2" /></a></li>
+	        			<li><a href="#"><img src="images/ad4.jpg" height="318" width="1000" thumb="" alt="标题3" text="详细描述3" /></a></li>
+	        		
+	  			</ul>
+	  		</div>
+		    </div><!-- 焦点图盒子结束 -->
+			
+		</div><!-- zhuye结束 -->
+	</div><!-- main结束 -->	
+</body>
+</html>
